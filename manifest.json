@@ -1,4 +1,8 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "MFCompany"
+    "OrganizationName": "MFCompany",
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/（把这里替换成你的 GitHub 用户名）/classisland-mgmt-cfg/master/timelayouts.json",
+        "Version": 1
+    }
 }
