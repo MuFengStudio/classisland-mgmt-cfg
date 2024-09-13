@@ -1,0 +1,582 @@
+{
+        "a874a65b-d48b-456d-8e90-f6d3473fda4c": {
+            "TimeLayoutId": "47cdf15a-f350-4a66-a840-26c163476a43",
+            "TimeRule": {
+                "WeekDay": 2,
+                "WeekCountDiv": 0,
+                "WeekCountDivTotal": 2,
+                "IsActive": false
+            },
+            "Classes": [
+                {
+                    "SubjectId": "9875b24c-470d-4195-8a6a-73925ea4808b",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "956f2a9c-5eec-47c3-b389-851e125813c4",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "353c420e-c256-4e28-9f9c-283333ba6e62",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                }
+            ],
+            "Name": "\u5468\u4E8C",
+            "IsOverlay": false,
+            "OverlaySourceId": null,
+            "OverlaySetupTime": "2024-06-16T16:26:05.7966908+08:00",
+            "IsEnabled": true,
+            "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": true,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 5,
+                    "IsCountdownEnabled": false,
+                    "CountdownSeconds": 60,
+                    "ShowCurrentLessonOnlyOnClass": true,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 10,
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "ClassOnMaskText": "\u4E0A\u8BFE",
+                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "IsAttachSettingsEnabled": true,
+                    "IsActive": false
+                },
+                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                    "IsEnabled": true,
+                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "df82b9ee-edd7-4842-9396-f6a46620905b": {
+            "TimeLayoutId": "47cdf15a-f350-4a66-a840-26c163476a43",
+            "TimeRule": {
+                "WeekDay": 3,
+                "WeekCountDiv": 0,
+                "WeekCountDivTotal": 2,
+                "IsActive": false
+            },
+            "Classes": [
+                {
+                    "SubjectId": "9875b24c-470d-4195-8a6a-73925ea4808b",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "956f2a9c-5eec-47c3-b389-851e125813c4",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "31380edc-400d-46c2-b993-a5c4a43db126",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "66d1c380-d292-46e1-86d5-d403e2a4f200",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                }
+            ],
+            "Name": "\u5468\u4E09",
+            "IsOverlay": false,
+            "OverlaySourceId": null,
+            "OverlaySetupTime": "2024-09-11T20:46:07.4726982+08:00",
+            "IsEnabled": true,
+            "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+            "AttachedObjects": {
+                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                    "IsEnabled": true,
+                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 10,
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "ClassOnMaskText": "\u4E0A\u8BFE",
+                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "IsAttachSettingsEnabled": true,
+                    "IsActive": false
+                },
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": true,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 5,
+                    "IsCountdownEnabled": false,
+                    "CountdownSeconds": 60,
+                    "ShowCurrentLessonOnlyOnClass": true,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "d3225140-4f3d-4a20-8596-ca5e85872575": {
+            "TimeLayoutId": "47cdf15a-f350-4a66-a840-26c163476a43",
+            "TimeRule": {
+                "WeekDay": 4,
+                "WeekCountDiv": 0,
+                "WeekCountDivTotal": 2,
+                "IsActive": false
+            },
+            "Classes": [
+                {
+                    "SubjectId": "9875b24c-470d-4195-8a6a-73925ea4808b",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "956f2a9c-5eec-47c3-b389-851e125813c4",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "742b00dc-901b-496f-ae33-6714a13fa465",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                }
+            ],
+            "Name": "\u5468\u56DB",
+            "IsOverlay": false,
+            "OverlaySourceId": null,
+            "OverlaySetupTime": "2024-09-11T20:48:23.811101+08:00",
+            "IsEnabled": true,
+            "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+            "AttachedObjects": {
+                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                    "IsEnabled": true,
+                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 10,
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "ClassOnMaskText": "\u4E0A\u8BFE",
+                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "IsAttachSettingsEnabled": true,
+                    "IsActive": false
+                },
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": true,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 5,
+                    "IsCountdownEnabled": false,
+                    "CountdownSeconds": 60,
+                    "ShowCurrentLessonOnlyOnClass": true,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "6a773883-afc7-4855-8a60-47e542ff6384": {
+            "TimeLayoutId": "47cdf15a-f350-4a66-a840-26c163476a43",
+            "TimeRule": {
+                "WeekDay": 5,
+                "WeekCountDiv": 0,
+                "WeekCountDivTotal": 2,
+                "IsActive": false
+            },
+            "Classes": [
+                {
+                    "SubjectId": "9875b24c-470d-4195-8a6a-73925ea4808b",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "956f2a9c-5eec-47c3-b389-851e125813c4",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "91a88ebb-8ecb-493e-b09c-e35718f01dce",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "AttachedObjects": {
+
+                    },
+                    "IsActive": false
+                }
+            ],
+            "Name": "\u5468\u4E94",
+            "IsOverlay": false,
+            "OverlaySourceId": null,
+            "OverlaySetupTime": "2024-09-11T20:50:14.0207907+08:00",
+            "IsEnabled": true,
+            "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+            "AttachedObjects": {
+                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                    "IsEnabled": true,
+                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 10,
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                    "ClassOnMaskText": "\u4E0A\u8BFE",
+                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "IsAttachSettingsEnabled": true,
+                    "IsActive": false
+                },
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": true,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 5,
+                    "IsCountdownEnabled": false,
+                    "CountdownSeconds": 60,
+                    "ShowCurrentLessonOnlyOnClass": true,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        }
+    }
