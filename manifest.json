@@ -2,15 +2,15 @@
     "ServerKind": 0,
     "OrganizationName": "MFCompany",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/MuFengStudio/classisland-mgmt-cfg/master/classplans.json",
+        "Value": "https://raw.githubusercontent.com/MuFengStudio/classisland-mgmt-cfg/master/Default.json",
         "Version": 2
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/MuFengStudio/classisland-mgmt-cfg/master/timelayouts.json",
+        "Value": "https://raw.githubusercontent.com/MuFengStudio/classisland-mgmt-cfg/master/Default.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/MuFengStudio/classisland-mgmt-cfg/master/subjects.json",
+        "Value": "https://raw.githubusercontent.com/MuFengStudio/classisland-mgmt-cfg/master/Default.json",
         "Version": 1
     }
 }
